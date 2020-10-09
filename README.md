@@ -1,2 +1,2 @@
-# Yolov4-Anomaly-Detection
-Custom Anomaly Detection using Yolov4
+# Yolov4-Human Activities-Detection
+Custom Human Activities Detection using Yolov4
