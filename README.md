@@ -1,7 +1,6 @@
 # Yolov4-Human Activities-Detection
 Custom Human Activities Detection using Yolov4</br>
 </br></br>
-![output](https://user-images.githubusercontent.com/63501850/96836375-be92ac80-13f9-11eb-81e5-d09592be2f78.gif)
 </br></br>
 I have implemented it on Google Colab and so can you </br>
 Colab notebook have a step by step setup for model and predictions</br>
