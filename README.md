@@ -1,6 +1,7 @@
 # Yolov4-Human Activities-Detection
 Custom Human Activities Detection using Yolov4</br>
 </br></br>
+![output](https://user-images.githubusercontent.com/63501850/96836375-be92ac80-13f9-11eb-81e5-d09592be2f78.gif)
 </br></br>
 I have implemented it on Google Colab and so can you </br>
 Colab notebook have a step by step setup for model and predictions</br>
@@ -17,13 +18,13 @@ If you want use pretrained weights for human activity (my own trained weights) h
 </br>
 ### Model Training
 </br>
-![12](https://user-images.githubusercontent.com/63501850/96837217-eafaf880-13fa-11eb-93a0-f687710b70d4.png)
+![image](https://user-images.githubusercontent.com/63501850/96837428-4331fa80-13fb-11eb-9fd0-d0798a56f814.png)
 </br>
 ### Model Prediction
 </br>
-![detection](https://user-images.githubusercontent.com/63501850/96835819-f0574380-13f8-11eb-807c-e230fa7f0c86.png)
+![image](https://user-images.githubusercontent.com/63501850/96837495-62308c80-13fb-11eb-96d2-fecd8d73b5ca.png)
 </br>
 ### Output
 </br>
-![punching](https://user-images.githubusercontent.com/63501850/96835888-0bc24e80-13f9-11eb-892e-9652ef6c7b30.png)
+![image](https://user-images.githubusercontent.com/63501850/96837570-7ffdf180-13fb-11eb-9a18-6602ec64ab39.png)
 </br>
