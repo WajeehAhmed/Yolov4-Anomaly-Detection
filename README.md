@@ -18,7 +18,7 @@ If you want use pretrained weights for human activity (my own trained weights) h
 </br>
 ### Model Training
 </br>
-![1](https://user-images.githubusercontent.com/63501850/96835720-d0278480-13f8-11eb-8faa-4380473a3e9f.PNG)
+!(https://user-images.githubusercontent.com/63501850/96835720-d0278480-13f8-11eb-8faa-4380473a3e9f.PNG)
 </br>
 ### Model Prediction
 </br>
