@@ -17,14 +17,11 @@ If you want use pretrained weights for human activity (my own trained weights) h
 ![image](https://user-images.githubusercontent.com/63501850/96834880-96a24980-13f7-11eb-9c93-dc621ac2da9a.png)
 </br>
 ### Model Training
-</br>
-![image](https://user-images.githubusercontent.com/63501850/96837428-4331fa80-13fb-11eb-9fd0-d0798a56f814.png) </br>
+![image](https://user-images.githubusercontent.com/63501850/96837428-4331fa80-13fb-11eb-9fd0-d0798a56f814.png)
 </br>
 ### Model Prediction
-</br>
 ![image](https://user-images.githubusercontent.com/63501850/96837495-62308c80-13fb-11eb-96d2-fecd8d73b5ca.png)
 </br>
 ### Output
-</br>
 ![image](https://user-images.githubusercontent.com/63501850/96837570-7ffdf180-13fb-11eb-9a18-6602ec64ab39.png)
 </br>
